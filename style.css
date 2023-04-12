@@ -127,7 +127,8 @@ h3 {
 
 .movie img {
   width: 30%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 .movie-description {
